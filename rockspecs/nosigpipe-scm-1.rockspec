@@ -4,7 +4,7 @@ source = {
     url = "git://github.com/mah0x211/lua-nosigpipe.git"
 }
 description = {
-    summary = "a module that blocks SIGPIPE",
+    summary = "a module that ignore SIGPIPE",
     homepage = "https://github.com/mah0x211/lua-nosigpipe",
     license = "MIT/X11",
     maintainer = "Masatoshi Teruya"
