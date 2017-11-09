@@ -1,6 +1,6 @@
 # lua-nosigpipe
 
-a module that blocks SIGPIPE.
+a module that ignore SIGPIPE.
 
 ## Installation
 
